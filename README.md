@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="scuba%20logo.png" width="150"/>
+  <img src="scuba%20logo.png" width="350"/>
 </div>
 
 # AI Thermal Object Detector
