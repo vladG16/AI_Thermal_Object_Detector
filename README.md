@@ -1,4 +1,6 @@
-<img src="scuba%20logo.png" width="350"/>
+<div align="center">
+  <img src="scuba%20logo.png" width="150"/>
+</div>
 
 # AI Thermal Object Detector
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
